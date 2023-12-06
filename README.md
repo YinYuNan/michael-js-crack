@@ -26,3 +26,7 @@ If you have any questions or need assistance during your learning journey in rev
 
     部分项目会提供python的实现方案
 
+## Contacts / 联系方式
+1. **Wechat**: Eli_Yin
+2. **Email**: yinyunan1210@163.com
+
